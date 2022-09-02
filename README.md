@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @NabarajBasnet
+- 👋 Hi, My name is Nabaraj Basnet
+- Im a self learner from internet
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning Python
 - And the next step will be DSA in python.
