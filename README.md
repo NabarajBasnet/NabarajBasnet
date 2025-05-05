@@ -62,4 +62,4 @@
 
 ---
 
-📌 *I’m open to full-time backend developer roles — feel free to connect!*
+📌 *I’m open to full-time fullstack developer roles — feel free to connect!*
