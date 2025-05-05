@@ -13,8 +13,7 @@
 ---
 
 🌐 **Connect With Me**  
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://facebook.com/your-facebook)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](h[ttps://linkedin.com/in/your-linkedin](https://www.linkedin.com/in/nabaraj-basnet-1b9216248/))  
 
 ---
 
