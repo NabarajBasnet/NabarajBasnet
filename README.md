@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Nabaraj Basnet (Raju)</h1>
+<h1 align="center">Hi 👋, I'm Nabaraj Basnet</h1>
 <h3 align="center">Full Stack Developer | Backend Focused | Building Gym & Factory Management Systems</h3>
 
 ---
