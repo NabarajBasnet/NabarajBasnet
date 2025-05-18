@@ -5,7 +5,7 @@
 
 💫 **About Me**  
 - 💻 Passionate full-stack developer focused on **backend technologies**  
-- 🚀 Currently building a **Gym Management System** & starting a **Shoe Factory Management System**  
+- 🚀 Currently building a **Gym Management System**  
 - 📚 Mastering **Node.js, Express, NestJS, MongoDB, PostgreSQL, SQL, TypeScript**  
 - 🌐 Dreaming of scaling SaaS apps for gyms and factories across Nepal and beyond  
 - ❤️ Coding for impact — making systems smarter, faster, and more organized  
