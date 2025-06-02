@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Nabaraj Basnet</h1>
-<h3 align="center">Full Stack Developer | Building Gym Management Systems</h3>
+<h3 align="center">Full Stack Developer | Building SAAS Systems</h3>
 
 ---
 
 💫 **About Me**  
 - 💻 Passionate full-stack developer focused on **backend technologies**  
-- 🚀 Currently building a **Gym Management System**  
-- 📚 Mastering **Node.js, Express, NestJS, MongoDB, PostgreSQL, SQL, TypeScript**  
+- 🚀 Building a **Gym Management System** SAAS  
+- 📚 Tech Stack **Node.js, Express, NestJS, MongoDB, PostgreSQL, SQL, TypeScript**  
 - 🌐 Dreaming of scaling SaaS apps for gyms and factories across Nepal and beyond  
 - ❤️ Coding for impact — making systems smarter, faster, and more organized  
 
@@ -56,8 +56,7 @@
 ---
 
 🎯 **Main Projects**  
-- 🏋️‍♂️ [Gym Management System](https://github.com/nabarajbasnet/gym-management) — QR attendance, locker system, staff portal  
-- 🏭 [Shoe Factory Management System](https://github.com/nabarajbasnet/shoe-factory) — Planning phase with SDLC and full software architecture
+- 🏋️‍♂️ [Gym Management System](https://github.com/nabarajbasnet/gym-management) — QR attendance, locker system, staff portal and many more features
 
 
 ---
