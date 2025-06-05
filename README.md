@@ -14,6 +14,7 @@
 
 🌐 **Connect With Me**  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](h[ttps://linkedin.com/in/your-linkedin](https://www.linkedin.com/in/nabaraj-basnet-1b9216248/))  
+[Website] ([https://nabarajbasnet.com](https://www.nabarajbasnet.com/))
 
 ---
 
