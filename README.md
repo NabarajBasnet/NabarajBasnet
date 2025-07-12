@@ -1,75 +1,66 @@
-# FitBinary Gym Management SaaS - Frontend
-
-Welcome to the **FitBinary Gym Management Software Frontend** — a powerful, modern web application built for gyms to streamline operations, manage members, staff, and classes efficiently.
-
----
-
-## 🚀 Live Demo  
-[https://fitbinary.vercel.app](https://fitbinary.vercel.app)
+<h1 align="center">Hi 👋, I'm Nabaraj Basnet</h1>
+<h3 align="center">Full Stack Developer | Building SaaS Systems</h3>
 
 ---
 
-## Features
-
-- **Role-Based Authentication & Authorization** using Auth0  
-- **Real-Time Notifications** powered by WebSockets  
-- **QR Code Attendance System** for members and staff  
-- **Locker Management System** integrated into member profiles  
-- **Multi-Branch & Multi-Tenant Support**  
-- **Responsive UI** with seamless experience on desktop, tablet, and mobile  
-- **Comprehensive Dashboard** for quick stats and insights  
-- **Class Scheduling & Management** with trainer assignments  
-- **Membership Management** with auto-renewal reminders and payment tracking  
-- **Secure Forms & Validations** across the app  
-- **Dark Mode Support** for better usability
+💫 **About Me**  
+- 💻 Passionate full-stack developer focused on **backend and SaaS applications**  
+- 🚀 Building **FitBinary** — an enterprise-grade Gym Management SaaS  
+- 📚 Tech Stack: **Node.js, Express, MongoDB Atlas, Python, React, Redux, React Query, React Hook Form, Next.js**  
+- 🌐 Dreaming of scaling SaaS apps for gyms and businesses across Nepal and beyond  
+- ❤️ Coding to build smarter, faster, and more organized systems  
 
 ---
 
-## Technologies & Libraries Used
-
-### Frontend Framework
-- **[React](https://reactjs.org/)** – UI building library  
-- **[Next.js](https://nextjs.org/)** – React framework for server-side rendering and routing
-
-### State Management & Data Fetching
-- **[Redux Toolkit (RTK)](https://redux-toolkit.js.org/)** – Centralized state management  
-- **[React Redux](https://react-redux.js.org/)** – Official React bindings for Redux  
-- **[React Query](https://tanstack.com/query/latest)** – Server-state and data synchronization  
-- **[React Hook Form](https://react-hook-form.com/)** – Performant form handling and validation
-
-### Styling & UI
-- **[Tailwind CSS](https://tailwindcss.com/)** – Utility-first CSS framework  
-- **[ShadCN UI](https://shadcn.dev/)** – Accessible, customizable React components  
-- **[Framer Motion](https://www.framer.com/motion/)** – Declarative animations
-
-### Icons & Utilities
-- **[Lucide React](https://lucide.dev/)** – Icon components  
-- **[React Icons](https://react-icons.github.io/react-icons/)** – Popular icon packs  
-- **[React Hot Toast](https://react-hot-toast.com/)** – Toast notifications  
-
-### API Communication
-- **[Axios](https://axios-http.com/)** – HTTP client for RESTful requests  
-
-### Authentication
-- **[Auth0](https://auth0.com/)** – Secure user authentication and authorization  
-
-### Tools & Build
-- **Vercel** for deployment  
-- **ESLint & Prettier** for code quality and formatting
+🌐 **Connect With Me**  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nabaraj-basnet-1b9216248/)  
+[Website](https://nabarajbasnet.com)
 
 ---
 
-## Getting Started
+💻 **Tech Stack**  
 
-### Prerequisites
-- Node.js >= 18.x  
-- npm or yarn  
-- MongoDB Atlas (connected to backend)  
-- Auth0 account for authentication setup
+**Languages:**  
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)  
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)  
 
-### Installation
+**Backend:**  
+![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)  
+![Express](https://img.shields.io/badge/-Express.js-black?style=flat-square&logo=express)  
+![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)  
+![MongoDB Atlas](https://img.shields.io/badge/-MongoDB_Atlas-black?style=flat-square&logo=mongodb)  
+![WebSockets](https://img.shields.io/badge/-WebSockets-black?style=flat-square)  
+![Cloudinary](https://img.shields.io/badge/-Cloudinary-black?style=flat-square)  
+![VPS](https://img.shields.io/badge/-VPS-black?style=flat-square)  
 
-```bash
-git clone https://github.com/nabarajbasnet/fitbinary-frontend.git
-cd fitbinary-frontend
-npm install
+**Frontend:**  
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)  
+![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js)  
+![Redux](https://img.shields.io/badge/-Redux-black?style=flat-square&logo=redux)  
+![React Query](https://img.shields.io/badge/-React_Query-black?style=flat-square)  
+![React Hook Form](https://img.shields.io/badge/-React_Hook_Form-black?style=flat-square)  
+![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-black?style=flat-square&logo=tailwindcss)  
+
+**Tools & DevOps:**  
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)  
+![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)  
+![Postman](https://img.shields.io/badge/-Postman-black?style=flat-square&logo=postman)  
+![Vercel](https://img.shields.io/badge/-Vercel-black?style=flat-square&logo=vercel)  
+
+---
+
+📊 **GitHub Stats**  
+![Nabaraj's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nabarajbasnet&show_icons=true&theme=radical)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nabarajbasnet&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+🏆 **GitHub Trophies**  
+[![Trophies](https://github-profile-trophy.vercel.app/?username=nabarajbasnet&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
+
+🎯 **Main Projects**  
+- 🏋️‍♂️ [FitBinary Gym Management SaaS](https://github.com/nabarajbasnet/fitbinary) — full-featured SaaS system with QR attendance, locker management, staff portal, multi-tenant support, and real-time notifications
+
+---
+
+📌 *I’m open to full-time fullstack developer roles — feel free to connect!*
