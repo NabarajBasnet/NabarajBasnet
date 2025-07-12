@@ -5,45 +5,45 @@
 
 💫 **About Me**  
 - 💻 Passionate full-stack developer focused on **backend technologies**  
-- 🚀 Building a **Gym Management System** SAAS  
-- 📚 Tech Stack **Node.js, Express, NestJS, MongoDB, PostgreSQL, SQL, TypeScript**  
+- 🚀 Currently building a **Gym Management System (SaaS)** used in real gyms  
 - 🌐 Dreaming of scaling SaaS apps for gyms and factories across Nepal and beyond  
-- ❤️ Coding for impact — making systems smarter, faster, and more organized  
+- ❤️ I code for **impact** — making systems smarter, faster, and more organized  
 
 ---
 
 🌐 **Connect With Me**  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](h[ttps://linkedin.com/in/your-linkedin](https://www.linkedin.com/in/nabaraj-basnet-1b9216248/))  
-[Website] ([https://nabarajbasnet.com](https://www.nabarajbasnet.com/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nabaraj-basnet-1b9216248/)  
+🌍 [Portfolio Website](https://www.nabarajbasnet.com/)
 
 ---
 
 💻 **Tech Stack**  
+
 **Languages:**  
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)  
-![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)  
-![SQL](https://img.shields.io/badge/-SQL-black?style=flat-square&logo=postgresql)  
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)  
 
 **Backend:**  
 ![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)  
 ![Express](https://img.shields.io/badge/-Express.js-black?style=flat-square&logo=express)  
-![NestJS](https://img.shields.io/badge/-NestJS-black?style=flat-square&logo=nestjs)  
+![WebSockets](https://img.shields.io/badge/-WebSockets-black?style=flat-square&logo=socketdotio)
 
 **Databases:**  
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)  
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql)  
-![Supabase](https://img.shields.io/badge/-Supabase-black?style=flat-square&logo=supabase)  
+![MongoDB Atlas](https://img.shields.io/badge/-MongoDB%20Atlas-black?style=flat-square&logo=mongodb)  
 
 **Frontend:**  
 ![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js)  
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)  
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-black?style=flat-square&logo=tailwindcss)  
-![Shadcn UI](https://img.shields.io/badge/-ShadcnUI-black?style=flat-square)  
+![Shadcn UI](https://img.shields.io/badge/-ShadcnUI-black?style=flat-square)
 
-**Tools & DevOps:**  
+**Media & DevOps:**  
+![Cloudinary](https://img.shields.io/badge/-Cloudinary-black?style=flat-square&logo=cloudinary)  
+![VPS](https://img.shields.io/badge/-VPS-black?style=flat-square&logo=linux)  
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)  
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)  
-![Postman](https://img.shields.io/badge/-Postman-black?style=flat-square&logo=postman)  
+![Postman](https://img.shields.io/badge/-Postman-black?style=flat-square&logo=postman)
 
 ---
 
@@ -57,9 +57,8 @@
 ---
 
 🎯 **Main Projects**  
-- 🏋️‍♂️ [Gym Management System](https://github.com/nabarajbasnet/gym-management) — QR attendance, locker system, staff portal and many more features
-
+- 🏋️‍♂️ [FitBinary - Gym Management SaaS](https://github.com/nabarajbasnet/gym-management) — QR attendance, multi-branch, real-time notifications, locker system, staff roles, and more.
 
 ---
 
-📌 *I’m open to full-time fullstack developer roles — feel free to connect!*
+📌 *I’m open to full-time backend or fullstack roles — feel free to connect or reach out!*
