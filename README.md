@@ -59,7 +59,7 @@
 ---
 
 🎯 **Main Projects**  
-- 🏋️‍♂️ [FitBinary Gym Management SaaS](https://github.com/nabarajbasnet/fitbinary) — full-featured SaaS system with QR attendance, locker management, staff portal, multi-tenant support, and real-time notifications
+- 🏋️‍♂️ [FitBinary Gym Management SaaS](https://fitbinary.com) — full-featured SaaS system with QR attendance, locker management, staff portal, multi-tenant support, and real-time notifications
 
 ---
 
