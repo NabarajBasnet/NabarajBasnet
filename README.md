@@ -64,5 +64,3 @@
 
 ---
 
-📌 *I’m open to full-time fullstack developer roles — feel free to connect!*
-a
