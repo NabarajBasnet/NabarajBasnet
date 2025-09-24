@@ -1,17 +1,3 @@
-<h1 align="center">Hi 👋, I'm Nabaraj Basnet</h1>
-<h3 align="center">Full Stack Developer | Building SaaS Systems</h3>
-
----
-
-💫 **About Me**  
-- 💻 Passionate full-stack developer focused on **backend and SaaS applications**  
-- 🚀 Building **FitBinary** — an enterprise-grade Gym Management SaaS
-- - 🚀 Building **Trainlink** — marketplace for fitness trainers and clients seeking trusted trainers/ a platform just like upwork but fitness focused
-- 📚 Tech Stack: **Node.js, Express, MongoDB Atlas, Python, React, Redux, React Query, React Hook Form, Next.js**  
-- 🌐 Dreaming of scaling SaaS apps for gyms and businesses across Nepal and beyond  
-- ❤️ Coding to build smarter, faster, and more organized systems  
-
----
 
 🌐 **Connect With Me**  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nabaraj-basnet-1b9216248/)  
