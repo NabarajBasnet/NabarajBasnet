@@ -15,7 +15,6 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)  
 ![Express](https://img.shields.io/badge/-Express.js-black?style=flat-square&logo=express)  
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)  
-![MongoDB Atlas](https://img.shields.io/badge/-MongoDB_Atlas-black?style=flat-square&logo=mongodb)  
 ![WebSockets](https://img.shields.io/badge/-WebSockets-black?style=flat-square)  
 ![Cloudinary](https://img.shields.io/badge/-Cloudinary-black?style=flat-square)  
 ![VPS](https://img.shields.io/badge/-VPS-black?style=flat-square)  
