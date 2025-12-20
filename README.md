@@ -1,7 +1,7 @@
 
 🌐 **Connect With Me**  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nabaraj-basnet-1b9216248/)  
-[Website](https://nabarajbasnet.com)
+[Website](https://nabarajbasnet.com.np)
 
 ---
 
