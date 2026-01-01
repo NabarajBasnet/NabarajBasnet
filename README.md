@@ -11,13 +11,6 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)  
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)  
 
-**Backend:**  
-![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)  
-![Express](https://img.shields.io/badge/-Express.js-black?style=flat-square&logo=express)  
-![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)  
-![WebSockets](https://img.shields.io/badge/-WebSockets-black?style=flat-square)  
-![Cloudinary](https://img.shields.io/badge/-Cloudinary-black?style=flat-square)  
-
 **Frontend:**  
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)  
 ![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js)  
@@ -25,6 +18,13 @@
 ![React Query](https://img.shields.io/badge/-React_Query-black?style=flat-square)  
 ![React Hook Form](https://img.shields.io/badge/-React_Hook_Form-black?style=flat-square)  
 ![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-black?style=flat-square&logo=tailwindcss)  
+
+**Backend:**  
+![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)  
+![Express](https://img.shields.io/badge/-Express.js-black?style=flat-square&logo=express)  
+![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)  
+![WebSockets](https://img.shields.io/badge/-WebSockets-black?style=flat-square)  
+![Cloudinary](https://img.shields.io/badge/-Cloudinary-black?style=flat-square)  
 
 **Tools & DevOps:**  
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)  
