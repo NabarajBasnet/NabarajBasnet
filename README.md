@@ -17,7 +17,6 @@
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)  
 ![WebSockets](https://img.shields.io/badge/-WebSockets-black?style=flat-square)  
 ![Cloudinary](https://img.shields.io/badge/-Cloudinary-black?style=flat-square)  
-![VPS](https://img.shields.io/badge/-VPS-black?style=flat-square)  
 
 **Frontend:**  
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)  
@@ -32,6 +31,8 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)  
 ![Postman](https://img.shields.io/badge/-Postman-black?style=flat-square&logo=postman)  
 ![Vercel](https://img.shields.io/badge/-Vercel-black?style=flat-square&logo=vercel)  
+![VPS](https://img.shields.io/badge/-VPS-black?style=flat-square)  
+
 
 ---
 
