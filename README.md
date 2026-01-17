@@ -43,10 +43,4 @@
 🏆 **GitHub Trophies**  
 [![Trophies](https://github-profile-trophy.vercel.app/?username=nabarajbasnet&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
 
----
-
-🎯 **Main Projects**  
-- 🏋️‍♂️ [FitBinary Gym Management SaaS](https://fitbinary.com) — full-featured SaaS system with QR attendance, locker management, staff portal, multi-tenant support, and real-time notifications
-
----
 
