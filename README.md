@@ -36,12 +36,3 @@
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)  
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)  
 ![Postman](https://img.shields.io/badge/-Postman-black?style=flat-square&logo=postman)
-
----
-
-📊 **GitHub Stats**  
-![Nabaraj's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nabarajbasnet&show_icons=true&theme=radical)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nabarajbasnet&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-🏆 **GitHub Trophies**  
-[![Trophies](https://github-profile-trophy.vercel.app/?username=nabarajbasnet&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
