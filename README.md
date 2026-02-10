@@ -7,22 +7,22 @@
 💻 **Tech Stack**
 
 ### **Languages**
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)  
 ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)  
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)  
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
 
-### **Frontend**
+### **Frontend Frameworks**
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)  
-![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js)  
-![Redux](https://img.shields.io/badge/-Redux-black?style=flat-square&logo=redux)  
-![React Query](https://img.shields.io/badge/-React_Query-black?style=flat-square)  
-![React Hook Form](https://img.shields.io/badge/-React_Hook_Form-black?style=flat-square)  
-![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-black?style=flat-square&logo=tailwindcss)
+![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js)
 
-### **Backend**
-![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)  
-![Express](https://img.shields.io/badge/-Express.js-black?style=flat-square&logo=express)  
-![NestJS](https://img.shields.io/badge/-NestJS-black?style=flat-square&logo=nestjs)  
+### **Backend Frameworks**
+![Express.js](https://img.shields.io/badge/-Express.js-black?style=flat-square&logo=express)  
+![NestJS](https://img.shields.io/badge/-NestJS-black?style=flat-square&logo=nestjs)
+
+### **Runtime & Platform**
+![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
+
+### **Databases & Realtime**
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)  
 ![WebSockets](https://img.shields.io/badge/-WebSockets-black?style=flat-square)
 
