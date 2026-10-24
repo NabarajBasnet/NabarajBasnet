@@ -53,7 +53,7 @@ I mostly work on the backend: **NestJS, TypeScript, PostgreSQL, MongoDB**. That 
 
 ## 🚀 Projects
 
-### 🏋️ TrainLink: Trainer–Client Marketplace *(in active development)*
+### 🏋️ Trainlink: Trainer–Client Marketplace *(in active development)*
 A mobile platform that connects personal trainers with clients. It replaces the spreadsheets trainers use to track sessions and payments.
 
 - **Architecture:** NestJS microservices monorepo with **gRPC** between services and an API gateway with permission-based RBAC
@@ -65,12 +65,12 @@ A mobile platform that connects personal trainers with clients. It replaces the 
 
 `NestJS` `gRPC` `PostgreSQL` `TypeORM` `Redis` `BullMQ` `Stripe Connect` `WebRTC` `React Native` → [trainlink.cloud](https://trainlink.cloud)
 
-### 💪 FitCloud: Gym Management System *(live in production)*
+### 💪 Fitcloud: Gym Management System *(live in production)*
 Gym management with separate apps for members and staff and an internal dashboard. It's used by real gyms and published on the **Google Play Store**.
 
 `Express` `MongoDB Atlas` `React Native` `Nginx` `VPS`
 
-### 📦 FitStock: Inventory Management System *(live in production)*
+### 📦 Fitstock: Inventory Management System *(live in production)*
 Multi-branch inventory and sales system with these features:
 - stock receiving
 - branch-to-branch transfers
@@ -93,4 +93,4 @@ A shared notification microservice for Fitbinary products. A Redis-backed queue 
 
 ## 📚 Currently Learning
 - Data structures & algorithms (working through NeetCode / LeetCode in TypeScript)
-- System design, using TrainLink's architecture as the case study
+- System design, using Trainlink's architecture as the case study
