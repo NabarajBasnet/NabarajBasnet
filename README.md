@@ -51,24 +51,6 @@ I mostly work on the backend: **NestJS, TypeScript, PostgreSQL, MongoDB**. That 
 ![Postman](https://img.shields.io/badge/-Postman-black?style=flat-square&logo=postman)
 ![pnpm](https://img.shields.io/badge/-pnpm-black?style=flat-square&logo=pnpm)
 
----
-
-## 💼 Experience
-
-### Frontend Developer · Onepasal
-*E-commerce & logistics company · [Start date] – Present*
-- [What you build there, e.g. the main screens/modules you own]
-- [Tech you use there, e.g. React / Next.js]
-- [One result, e.g. something you shipped or improved]
-
-### Founder & Full-Stack Developer · [Fitbinary](https://fitbinary.com)
-*[Start date] – Present*
-- Design, build and run Fitbinary's products end to end: backend, mobile apps, admin dashboards and deployment
-- Two apps live on the Google Play Store (FitCloud and FitStock), used by real gyms
-- Run production services on a VPS behind Nginx with MongoDB Atlas
-
----
-
 ## 🚀 Projects
 
 ### 🏋️ TrainLink: Trainer–Client Marketplace *(in active development)*
