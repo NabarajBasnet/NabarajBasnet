@@ -4,7 +4,7 @@
 
 I mostly work on the backend: **NestJS, TypeScript, PostgreSQL, MongoDB**. That means microservices, queues, payments and real-time systems. I also ship the mobile and web clients myself.
 
-🎯 **Open to full-stack / backend roles in Dubai, UAE** (relocating December 2026)
+🎯 **Open to full-stack / backend roles
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nabaraj-basnet-1b9216248/)
 [![Website](https://img.shields.io/badge/Website-000000?style=flat&logo=googlechrome&logoColor=white)](https://nabarajbasnet.com.np)
