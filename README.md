@@ -1,6 +1,6 @@
 # Hi, I'm Nabaraj 👋
 
-**Full-Stack Software Engineer** from Kathmandu, Nepal. I build SaaS products for the fitness industry under **[Fitbinary](https://fitbinary.com)**, and I work as a Frontend Developer at **Onepasal** (e-commerce & logistics).
+**Full-Stack Software Developer** from Kathmandu, Nepal. I build products for the fitness industry under **[Fitbinary](https://fitbinary.com)**.
 
 I mostly work on the backend: **NestJS, TypeScript, PostgreSQL, MongoDB**. That means microservices, queues, payments and real-time systems. I also ship the mobile and web clients myself.
 
