@@ -4,51 +4,11 @@
 
 I mostly work on the backend: **NestJS, TypeScript, PostgreSQL, MongoDB**. That means microservices, queues, payments and real-time systems. I also ship the mobile and web clients myself.
 
-🎯 **Open to full-stack / backend roles
+🎯 **Open to full-stack / backend roles**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nabaraj-basnet-1b9216248/)
 [![Website](https://img.shields.io/badge/Website-000000?style=flat&logo=googlechrome&logoColor=white)](https://nabarajbasnet.com.np)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:nabaraj@fitbinary.com)
-
----
-
-## 🚀 What I'm Building
-
-### 🏋️ TrainLink: Trainer–Client Marketplace *(in active development)*
-A mobile platform that connects personal trainers with clients. It replaces the spreadsheets trainers use to track sessions and payments.
-
-- **Architecture:** NestJS microservices monorepo with **gRPC** between services and an API gateway with permission-based RBAC
-- **Payments:** Stripe PaymentIntents with **signature-verified, idempotent webhooks**. **Stripe Connect** handles trainer payouts, with a per-session earnings ledger and scheduled transfers
-- **Concurrency:** atomic conditional SQL on session counts to prevent overselling packages
-- **Async work:** **Redis + BullMQ** for notifications, booking expiry (delayed jobs) and repeatable payout jobs
-- **Real-time:** WebSocket chat and **1:1 WebRTC video calls**, with socket.io signaling gated to active sessions
-- **Client:** React Native (Expo) mobile app, plus an admin portal for exercises, media and broadcast notifications
-
-`NestJS` `gRPC` `PostgreSQL` `TypeORM` `Redis` `BullMQ` `Stripe Connect` `WebRTC` `React Native` → [trainlink.cloud](https://trainlink.cloud)
-
-### 💪 FitCloud: Gym Management SaaS *(live in production)*
-Gym management with separate apps for members and staff and an internal dashboard. It's used by real gyms and published on the **Google Play Store**.
-
-`Express` `MongoDB Atlas` `React Native` `Nginx` `VPS`
-
-### 📦 FitStock: Inventory Management SaaS *(live in production)*
-Multi-branch inventory and sales system with these features:
-- stock receiving
-- branch-to-branch transfers
-- outflow tracking (sale, damage, expiry)
-- full audit trail
-- low-stock alerts
-- barcode printing
-- sales reports
-
-Published on the **Google Play Store**.
-
-`NestJS` `TypeScript` `MongoDB Atlas` `React Native`
-
-### 🔔 Fitbinary Notification Service
-A shared notification microservice for Fitbinary products. A Redis-backed queue feeds a worker pipeline (**dedup → template → preference filter → fan-out**). It delivers to push, in-app, email and SMS through pluggable channel strategies, with a dead-letter queue for failed jobs.
-
-`NestJS` `Redis` `MongoDB`
 
 ---
 
@@ -93,7 +53,62 @@ A shared notification microservice for Fitbinary products. A Redis-backed queue 
 
 ---
 
+## 💼 Experience
+
+### Frontend Developer · Onepasal
+*E-commerce & logistics company · [Start date] – Present*
+- [What you build there, e.g. the main screens/modules you own]
+- [Tech you use there, e.g. React / Next.js]
+- [One result, e.g. something you shipped or improved]
+
+### Founder & Full-Stack Developer · [Fitbinary](https://fitbinary.com)
+*[Start date] – Present*
+- Design, build and run Fitbinary's products end to end: backend, mobile apps, admin dashboards and deployment
+- Two apps live on the Google Play Store (FitCloud and FitStock), used by real gyms
+- Run production services on a VPS behind Nginx with MongoDB Atlas
+
+---
+
+## 🚀 Projects
+
+### 🏋️ TrainLink: Trainer–Client Marketplace *(in active development)*
+A mobile platform that connects personal trainers with clients. It replaces the spreadsheets trainers use to track sessions and payments.
+
+- **Architecture:** NestJS microservices monorepo with **gRPC** between services and an API gateway with permission-based RBAC
+- **Payments:** Stripe PaymentIntents with **signature-verified, idempotent webhooks**. **Stripe Connect** handles trainer payouts, with a per-session earnings ledger and scheduled transfers
+- **Concurrency:** atomic conditional SQL on session counts to prevent overselling packages
+- **Async work:** **Redis + BullMQ** for notifications, booking expiry (delayed jobs) and repeatable payout jobs
+- **Real-time:** WebSocket chat and **1:1 WebRTC video calls**, with socket.io signaling gated to active sessions
+- **Client:** React Native (Expo) mobile app, plus an admin portal for exercises, media and broadcast notifications
+
+`NestJS` `gRPC` `PostgreSQL` `TypeORM` `Redis` `BullMQ` `Stripe Connect` `WebRTC` `React Native` → [trainlink.cloud](https://trainlink.cloud)
+
+### 💪 FitCloud: Gym Management System *(live in production)*
+Gym management with separate apps for members and staff and an internal dashboard. It's used by real gyms and published on the **Google Play Store**.
+
+`Express` `MongoDB Atlas` `React Native` `Nginx` `VPS`
+
+### 📦 FitStock: Inventory Management System *(live in production)*
+Multi-branch inventory and sales system with these features:
+- stock receiving
+- branch-to-branch transfers
+- outflow tracking (sale, damage, expiry)
+- full audit trail
+- low-stock alerts
+- barcode printing
+- sales reports
+
+Published on the **Google Play Store**.
+
+`NestJS` `TypeScript` `MongoDB Atlas` `React Native`
+
+### 🔔 Fitbinary Notification Service
+A shared notification microservice for Fitbinary products. A Redis-backed queue feeds a worker pipeline (**dedup → template → preference filter → fan-out**). It delivers to push, in-app, email and SMS through pluggable channel strategies, with a dead-letter queue for failed jobs.
+
+`NestJS` `Redis` `MongoDB`
+
+---
+
 ## 📚 Currently Learning
 - Data structures & algorithms (working through NeetCode / LeetCode in TypeScript)
 - System design, using TrainLink's architecture as the case study
-- Docker and AWS deployment (EC2 / ECS)
