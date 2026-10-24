@@ -1,6 +1,6 @@
 # Hi, I'm Nabaraj 👋
 
-**Full-Stack Software Developer** from Kathmandu, Nepal. I build products for the fitness industry under **[Fitbinary](https://fitbinary.com)**.
+**Full-Stack Software Developer** from Kathmandu, Nepal.**
 
 I mostly work on the backend: **NestJS, TypeScript, PostgreSQL, MongoDB**. That means microservices, queues, payments and real-time systems. I also ship the mobile and web clients myself.
 
